@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700301326813",
+    "project_id": "flutterexpert-d6b3c",
+    "storage_bucket": "flutterexpert-d6b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700301326813:android:51577cc92e55218c869e34",
+        "android_client_info": {
+          "package_name": "com.example.flutterexpert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAztQujfaWB8_6fagbSdUncARD4BSCi_7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
